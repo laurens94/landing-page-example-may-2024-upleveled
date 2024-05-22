@@ -1,4 +1,4 @@
-# Cloned landing page January 2024
+# Cloned landing page May 2024
 
 This repo is a reference for the lecture I gave for [UpLeveled](https://upleveled.io/).
 
